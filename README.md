@@ -1,0 +1,1 @@
+--hostname 127.0.0.1 --port 8050 --listenPort 8039 --outputFile ldap-debugger.log
